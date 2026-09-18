@@ -32,7 +32,7 @@ Currently learning **C, Linux, Git, and problem solving**, while documenting wha
 
 **C Basics → Piscine Exercises → Shell → Practice → Exams → 1337 Piscine 🚀**
 
-📂 **[1337-journey](https://github.com/YASHAMI/1337-journey)**
+📂 **[1337-journey](https://github.com/Yashamibusiness/1337-journey)**
 
 ---
 
